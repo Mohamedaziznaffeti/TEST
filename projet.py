@@ -1,2 +1,5 @@
-Data=[1,3,5] /n Som=sum(Data)
-Data=[1,3,5] /n Som=sum(Data) /n print(la somme est :, Som)
+Data=[1,3,5] 
+Som=sum(Data)
+Data=[1,3,5] 
+Som=sum(Data) 
+print(la somme est :, Som)
